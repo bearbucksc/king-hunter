@@ -1,0 +1,15 @@
+[rpc]
+url = "https://api.mainnet-beta.solana.com "
+jito_url = "https://jito-bundler.net/api/v1/bundles "
+
+[fees]
+buy_slippage = 0.1
+gas_fee = 0.001
+
+[wallet]
+max_create = 60
+min_balance_to_fund = 0.01
+
+[license]
+secret_key = "your_32_byte_secret_key_here___!!!"
+enabled = false
