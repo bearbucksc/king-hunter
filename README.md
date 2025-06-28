@@ -13,7 +13,7 @@ A fully functional Solana launching bot with wallet creation, funding, aging, bu
 - Classic blue-themed GUI (Tauri + React)
 - License key system (disabled by default)
 
-> 💡 The license system is optional and disabled by default. You can re-enable it anytime if you decide to monetize.
+> 💡 The license system is optional and disabled by default. i can re-enable it anytime if you decide to monetize.
 
 ## Build Instructions
 
